@@ -140,6 +140,3 @@ var slider = new Slider('#ex1', {
         return 'Current value: ' + value;
     }
 });
-
-
-

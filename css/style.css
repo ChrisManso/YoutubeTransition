@@ -29,6 +29,8 @@ form, #results { padding: 0 20px;}
     /*bord arrondi*/
     border-radius:20px;}
 
+
+
 .btn-primary { background: #ff0000; border-color: #fffcf3; }
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus { background: #ff0000;  border-color: #ff0000; }
 
